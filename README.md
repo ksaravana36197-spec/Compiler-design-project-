@@ -1,0 +1,15 @@
+# Mini Compiler using Flex and Bison
+
+## Description
+This project validates simple arithmetic expressions.
+
+## Tools Used
+- Flex
+- Bison
+- GCC
+
+## Input
+a=b+c
+
+## Output
+Valid Expression
